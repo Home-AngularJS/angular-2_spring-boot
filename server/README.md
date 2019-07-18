@@ -2,6 +2,7 @@
 
 ### The Back End
 * https://github.com/zouabimourad/angular2-spring
+* [Ссылка на исходное описание проекта](https://www.quora.com/How-do-I-integrate-Angular-2-with-Spring-MVC) (который Не удалось запустить) [Angular2-SpringBoot-Example](https://github.com/rakshitshah94/Angular2-SpringBoot-Example)
 
 ## Installation
 * Need
