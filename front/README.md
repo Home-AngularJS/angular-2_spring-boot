@@ -15,4 +15,10 @@
 ## Run
 * NG Live Development Server `ng serve`.
 * [http://localhost:4200](http://localhost:4200)
+  ![http://localhost:4200](../1.png)
+
+  ![DELETE](../2.png)
 * [http://localhost:4200/person/1](http://localhost:4200/person/1)
+  ![http://localhost:4200/person/1](../3.png)
+
+  ![DELETE](../4.png)

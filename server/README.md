@@ -8,6 +8,8 @@
   * **Maven 3+**
   * **Java 8**
 * Database **H2**
+  * liquibase
+    ![liquibase](../5.png)
 * Default port **8080**
 
 ## Run
